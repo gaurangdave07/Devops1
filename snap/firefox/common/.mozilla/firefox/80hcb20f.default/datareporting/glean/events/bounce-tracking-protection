@@ -1,0 +1,1 @@
+{"timestamp":7977328,"category":"bounce.tracking.protection","name":"purge_action","extra":{"success":"true","require_stateful_bounces":"false","glean_timestamp":"1780235321483","bounce_time":"1780231073","site_host":"0.0.35.130","is_dry_run":"true"}}
