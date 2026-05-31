@@ -1,0 +1,7 @@
+{"timestamp":3732077,"category":"security.ui.neterror","name":"load_aboutneterror","extra":{"value":"netTimeout","glean_timestamp":"1780231122845","is_frame":"false","channel_status":"2152398862"}}
+{"timestamp":4567178,"category":"devtools.main","name":"open_tools","extra":{"entrypoint":"KeyShortcut","shortcut":"accel+shift+C","session_id":"-1","glean_timestamp":"1780231911335","host":"bottom","width":"1250","splitconsole":"false","first_panel":"inspector"}}
+{"timestamp":4567182,"category":"devtools.main","name":"enter_inspector","extra":{"glean_timestamp":"1780231911336","host":"bottom","start_state":"initial_panel","cold":"true","session_id":"-1","width":"1250","panel_name":"inspector"}}
+{"timestamp":4567947,"category":"devtools.main","name":"tool_timer_layoutview","extra":{"time_open":"1480","session_id":"3790258","glean_timestamp":"1780231912102","os":"Linux 7.0.0-14-generic"}}
+{"timestamp":4567959,"category":"devtools.main","name":"tool_timer_ruleview","extra":{"session_id":"3790258","os":"Linux 7.0.0-14-generic","time_open":"1522","glean_timestamp":"1780231912114"}}
+{"timestamp":4567971,"category":"devtools.main","name":"exit_inspector","extra":{"next_panel":"none","panel_name":"inspector","width":"1250","reason":"toolbox_close","glean_timestamp":"1780231912126","session_id":"3790258","host":"bottom"}}
+{"timestamp":4567972,"category":"devtools.main","name":"close_tools","extra":{"width":"1250","host":"bottom","glean_timestamp":"1780231912126","session_id":"3790258"}}
